@@ -5,7 +5,7 @@
 
 Name:           libgdata0.6
 Version:        0.6.6
-Release:        %mkrel 4
+Release:        %mkrel 5
 Summary:        Library for the GData protocol
 
 Group:          System/Libraries
