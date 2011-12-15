@@ -66,6 +66,9 @@ rm -rf $RPM_BUILD_ROOT
 %makeinstall_std
 %find_lang gdata
 
+#gw remove them manually:
+rm -f %buildroot%_libdir/*.la
+
 %clean
 rm -rf $RPM_BUILD_ROOT
 
