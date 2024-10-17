@@ -11,7 +11,7 @@ Version:	0.6.6
 Release:	6
 Group:		System/Libraries
 License:	LGPLv2+
-Url:		http://live.gnome.org/libgdata
+Url:		https://live.gnome.org/libgdata
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/libgdata/%{url_ver}/%{oname}-%{version}.tar.bz2
 BuildRequires:	gtk-doc
 BuildRequires:	intltool
